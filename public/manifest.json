@@ -1,6 +1,6 @@
 {
-  "short_name": "holyqrcodestation",
-  "name": "Holy Qr-code station",
+  "short_name": "LinkDotQR",
+  "name": "LinkDotQR",
   "icons": [
     {
       "src": "qrCodeLogoXbg.png",
